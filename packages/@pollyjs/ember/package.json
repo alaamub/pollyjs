@@ -42,7 +42,7 @@
     "@pollyjs/node-server": "^2.6.0",
     "@pollyjs/persister-local-storage": "^2.6.1",
     "@pollyjs/persister-rest": "^2.6.1",
-    "ember-auto-import": "^1.2.15",
+    "ember-auto-import": "^1.5.3",
     "ember-cli-babel": "^6.16.0"
   },
   "devDependencies": {
